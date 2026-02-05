@@ -5,7 +5,7 @@ Projetada para ser extensível e fácil de integrar em sistemas existentes.
 
 Principais funcionalidades:
 - Criação de notificações agendadas
-- Suporte para a adição múltiplos canais (ex.: email, SMS, push)
+- Suporte para a integração múltiplos canais (ex.: email, SMS, push)
 - Repetição e cron expressions para agendamentos complexos
 - Registro e histórico de envios
 
